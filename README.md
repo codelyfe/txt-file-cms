@@ -1,4 +1,7 @@
-# TXT-FILE-CMS ( Built with Bootstrap v4 https://getbootstrap.com) Skill Level: Noob - Leet
+# TXT-FILE-CMS 
+# ( Built with Bootstrap v4 https://getbootstrap.com) 
+# Skill Level: Noob - Leet
+# Version 1.0.0
 
 Why?
 
@@ -60,3 +63,38 @@ Upload txt-file-cms-master.zip to server, then extract.
 or
 
 &#60;?php echo file_get_contents( "FILE.txt" ); ?&#62;
+
+
+##Widget List
+
+1. backlink-checker.txt
+2. bitcoin.txt
+3. blue-clock.txt
+4. calculator.txt
+5. comments.txt
+6. current-weather.txt
+7. favicon-gen.txt
+8. full-info-ip-map.txt
+9. gas-prices.txt
+10. geo-location.txt
+11. global-track-trace.txt
+12. internet-speed.txt
+13. ip-flag-counter.txt
+14. like-button.txt
+15. live-traffic.txt
+16. mac-clock.txt
+17. map-yellow.txt
+18. micro-clock.txt	
+19. planet-earth.txt
+20. quote-of-day.txt
+21. share-social.txt
+22. social-buttons-big.txt
+23. social-buttons-small.txt
+24. sudoku.txt
+25. tiny-ip-informer.txt
+26. translator.txt
+27. unique-online-counter.txt
+28. user-agent-informer.txt	
+29. users-online.txt
+30. world-clock.txt
+31. your-ip.txt

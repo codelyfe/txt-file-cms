@@ -106,7 +106,8 @@
 <?php //echo file_get_contents( "cdn/jquery-ajaxy.txt" ); // un-comment to activate ?>
 <!--JS ONLY-->
 <footer style="text-align: center;">
-    <?php echo file_get_contents( "components/copyright.txt" ); ?>	
+    <?php echo file_get_contents( "components/copyright.txt" ); ?>
+    <?php echo file_get_contents( "app-info/version.txt" ); ?>	
 </footer>
 <!--0-->
 
