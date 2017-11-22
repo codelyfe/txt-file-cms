@@ -10,6 +10,8 @@
 
 <?php echo file_get_contents( "cdn/font-awesome4-7-0.txt" ); ?>
 
+<?php echo file_get_contents( "cdn/devicon-2.0.txt" ); ?>
+
 <?php //echo file_get_contents( "cdn/animate-css.txt" ); // un-comment to activate ?>
 
 <?php //echo file_get_contents( "cdn/ionicons.txt" ); // un-comment to activate ?>
