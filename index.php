@@ -22,6 +22,8 @@
 
 <?php echo '<body>'; ?>
 <!--0-->
+<?php echo file_get_contents( "components/fork-me.txt" ); ?>
+<!--0-->
 <?php echo file_get_contents( "components/navbar.txt" ); ?>
 <?php echo file_get_contents( "components/jumbotron.txt" ); ?>
 <!--0-->
