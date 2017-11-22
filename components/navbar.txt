@@ -15,6 +15,9 @@
       <li class="nav-item active">
         <a class="nav-link" href="./blog.php"><i class="fa fa-rss" aria-hidden="true"></i> Blog</a>
       </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="http://codelyfe.byethost3.com">Created by Codelyfe</a>
+      </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Dropdown
