@@ -1,0 +1,10 @@
+.alert-primary {
+    color: #ffffff;
+    background-color: #007bff;
+    border-color: #b8daff;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #22262a;
+    border-color: #23272b;
+}

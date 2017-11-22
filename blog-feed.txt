@@ -1,0 +1,31 @@
+<!--TOP-->
+<div class="card text-white bg-dark mb-3" style="max-width: 100%;">
+  <div class="card-header">Header</div>
+  <div class="card-body">
+    <h4 class="card-title">Blog Post 02</h4>
+    <p class="card-text">
+	Bacon ipsum dolor amet salami pancetta cupim, swine ham kielbasa fatback shank turkey beef ribs tail.
+    </p>
+  </div>
+</div>
+<!---->
+<div class="card text-white bg-dark mb-3" style="max-width: 100%;">
+  <div class="card-header">Header</div>
+  <div class="card-body">
+    <h4 class="card-title">Blog Post 01</h4>
+    <p class="card-text">
+	Bacon ipsum dolor amet salami pancetta cupim, swine ham kielbasa fatback shank turkey beef ribs tail. 
+    </p>
+  </div>
+</div>
+<!---->
+<div class="card text-white bg-dark mb-3" style="max-width: 100%;">
+  <div class="card-header">Header</div>
+  <div class="card-body">
+    <h4 class="card-title">Blog Post 00</h4>
+    <p class="card-text">
+    Bacon ipsum dolor amet salami pancetta cupim, swine ham kielbasa fatback shank turkey beef ribs tail.
+    </p>
+  </div>
+</div>
+<!--BOTTOM-->
