@@ -1,0 +1,23 @@
+<ul class="list-unstyled">
+  <li class="media">
+    <img class="mr-3" src="https://ps.w.org/1337-instagram-photo-sharing/assets/icon-128x128.png?rev=1713427" alt="Generic placeholder image">
+    <div class="media-body">
+      <h5 class="mt-0 mb-1">1337-Instagram</h5>
+      Simple RSS Feed Plugin for WordPress that allows an developer to create multiple RSS Feeds using "Widgets".
+    </div>
+  </li>
+  <li class="media my-4">
+    <img class="mr-3" src="https://ps.w.org/1337-instagram-photo-sharing/assets/icon-128x128.png?rev=1713427" alt="Generic placeholder image">
+    <div class="media-body">
+      <h5 class="mt-0 mb-1">1337-RSS-Feed</h5>
+      Simple Instagram plugin for WordPress that allows an developer to Share Sites Instagram Photos using "Widgets".
+    </div>
+  </li>
+  <li class="media">
+    <img class="mr-3" src="https://ps.w.org/1337-instagram-photo-sharing/assets/icon-128x128.png?rev=1713427" alt="Generic placeholder image">
+    <div class="media-body">
+      <h5 class="mt-0 mb-1">1337-Social-Sharing</h5>
+      Simple Social Sharing Plugin for WordPress that allows an developer to create multiple Social Sharing buttons using "Widgets".
+    </div>
+  </li>
+</ul>

@@ -50,7 +50,7 @@ More Components: https://getbootstrap.com/docs/4.0/components/
 
 ##How to install
 
-Upload txt-base-cms-master.zip to server, then extract.
+Upload txt-file-cms-master.zip to server, then extract.
 
 
 ##How to call out content

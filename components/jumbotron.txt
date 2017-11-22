@@ -1,8 +1,8 @@
-<div class="jumbotron">
+<div class="jumbotron" style="text-align:center;">
   <h1 class="display-3">Hello, world! Ready for something new?</h1>
   <kbd class="lead">Lets create a page using .TXT files.</kbd>
   <hr class="my-4">
   <p class="lead">
-    <a class="btn btn-primary btn-lg" href="./about.php" role="button">Learn more</a>
+    <a class="btn btn-primary btn-lg" href="./about.php" role="button">Learn more</a> <a class="btn btn-primary btn-lg" href="https://github.com/codelyfe/txt-file-cms" role="button"><i class="fa fa-github" aria-hidden="true"></i> Fork This Git</a>
   </p>
 </div>
