@@ -71,6 +71,34 @@
     </div>
   </div>
 <!--0-->
+  <div class="row">
+    <div class="col-sm" style="text-align: center;">
+      <?php echo file_get_contents( "widgets/calculator.txt" ); ?>
+    </div>
+    <div class="col-sm" style="text-align: center;">
+      <?php echo file_get_contents( "widgets/translator.txt" ); ?>
+    </div>
+    <div class="col-sm" style="text-align: center;">
+      <?php echo file_get_contents( "widgets/bitcoin.txt" ); ?>
+      <br/>
+      <?php echo file_get_contents( "widgets/geo-location.txt" ); ?>
+      <br/>
+      <?php echo file_get_contents( "widgets/micro-clock.txt" ); ?>
+    </div>
+  </div>
+  <!--0-->
+  <div class="row">
+    <div class="col-sm" style="text-align: center;">
+      <?php //echo file_get_contents( "*/*.txt" ); ?>
+    </div>
+    <div class="col-sm" style="text-align: center;">
+      <?php //echo file_get_contents( "*/*.txt" ); ?>
+    </div>
+    <div class="col-sm" style="text-align: center;">
+      <?php //echo file_get_contents( "*/*.txt" ); ?>
+    </div>
+  </div>
+<!--0-->
 </div>
 <!--JS ONLY-->
 <?php //echo file_get_contents( "cdn/jeditable-js.txt" ); // un-comment to activate ?>
