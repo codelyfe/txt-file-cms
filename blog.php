@@ -4,7 +4,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<title>TXT Base CMS</title>
+<title>TXT FILE CMS</title>
 
 <?php echo file_get_contents( "cdn/bootstrap-v4.txt" ); ?>
 
