@@ -2,7 +2,7 @@
 # ( Built with Bootstrap v4 https://getbootstrap.com) 
 # Skill Level: Noob - Leet
 # Version 1.0.0
-# Preview: http://codelyfe.ddns.com/forkme/
+# Preview: http://codelyfe.ddns.net/forkme/
 
 Why?
 
